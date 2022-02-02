@@ -1,8 +1,5 @@
-# Complex System Simulation - Financial Phenomena in Genoa market model
+# Financial Phenomena in Genoa market model
 
-
-
-Group 14
 
 Authors: Joos Akkerman, Oscar de Keijzer, Susy Maijer & Loek van Steijn
 
